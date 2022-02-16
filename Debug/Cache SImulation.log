@@ -1,0 +1,15 @@
+﻿  CacheAnalysis.cpp
+  The contents of <ranges> are available only in c++latest mode with concepts support;
+  see https://github.com/microsoft/STL/issues/1814 for details.
+C:\Users\creat\source\repos\Cache SImulation\CacheAnalysis.cpp(143,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\creat\source\repos\Cache SImulation\CacheAnalysis.cpp(155,28): warning C4805: '|=': unsafe mix of type '_Ty' and type 'bool' in operation
+          with
+          [
+              _Ty=char
+          ]
+C:\Users\creat\source\repos\Cache SImulation\CacheAnalysis.cpp(181,40): warning C4018: '<': signed/unsigned mismatch
+C:\Users\creat\source\repos\Cache SImulation\CacheAnalysis.cpp(240,21): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\creat\source\repos\Cache SImulation\CacheAnalysis.cpp(244,25): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\creat\source\repos\Cache SImulation\CacheAnalysis.cpp(248,20): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\creat\source\repos\Cache SImulation\CacheAnalysis.cpp(191): warning C4715: 'Cache::hitCheck': not all control paths return a value
+  Cache SImulation.vcxproj -> C:\Users\creat\source\repos\Cache SImulation\Debug\Cache SImulation.exe
